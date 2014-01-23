@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\PolygonLib\bin\Debug\PolygonLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\PolygonLib\bin\Debug\PolygonLib.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\PolygonLib\obj\Debug\PolygonLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\PolygonLib\obj\Debug\PolygonLib.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolynomClass.CSharp.Sazonova\PolygonLib\bin\Debug\PolygonLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolynomClass.CSharp.Sazonova\PolygonLib\bin\Debug\PolygonLib.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolynomClass.CSharp.Sazonova\PolygonLib\obj\Debug\PolynomLib.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolynomClass.CSharp.Sazonova\PolygonLib\obj\Debug\PolygonLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolynomClass.CSharp.Sazonova\PolygonLib\obj\Debug\PolygonLib.pdb

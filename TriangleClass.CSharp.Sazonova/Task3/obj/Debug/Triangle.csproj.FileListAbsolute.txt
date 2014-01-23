@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Task3\bin\Debug\Task3.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Task3\bin\Debug\Task3.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Task3\bin\Debug\Task3.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Task3\obj\Debug\Task3.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Timer\bin\Debug\Timer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Timer\bin\Debug\Timer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Timer\obj\Debug\Timer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Timer\obj\Debug\Timer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Timer.Csharp.Sazonova\Timer\bin\Debug\Timer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Timer.Csharp.Sazonova\Timer\bin\Debug\Timer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Timer.Csharp.Sazonova\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Timer.Csharp.Sazonova\Timer\obj\Debug\Timer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Timer.Csharp.Sazonova\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\bin\Debug\Events.Csharp.Sazonova.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\bin\Debug\Events.Csharp.Sazonova.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\bin\Debug\Events.Csharp.Sazonova.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\obj\Debug\Events.Csharp.Sazonova.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\obj\Debug\Events.Csharp.Sazonova.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\obj\Debug\Events.Csharp.Sazonova.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\bin\Debug\Timer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Events.Csharp.Sazonova\Events.Csharp.Sazonova\bin\Debug\Timer.pdb

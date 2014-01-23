@@ -1,0 +1,7 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\bin\Debug\TestPolygon.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\bin\Debug\TestPolygon.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\bin\Debug\PolygonLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\bin\Debug\PolygonLib.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\obj\Debug\TestPolygon.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\obj\Debug\TestPolygon.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\PolygonLib\TestPolygon\obj\Debug\TestPolygon.pdb

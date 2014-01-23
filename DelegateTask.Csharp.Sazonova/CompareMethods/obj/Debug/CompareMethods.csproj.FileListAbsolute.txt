@@ -1,0 +1,4 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\CompareMethods\bin\Debug\CompareMethods.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\CompareMethods\bin\Debug\CompareMethods.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\CompareMethods\obj\Debug\CompareMethods.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\CompareMethods\obj\Debug\CompareMethods.pdb

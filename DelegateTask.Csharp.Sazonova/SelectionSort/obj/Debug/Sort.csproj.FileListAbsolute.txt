@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\DelegateTask.Csharp.Sazonova\SelectionSort\bin\Debug\SelectionSort.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\DelegateTask.Csharp.Sazonova\SelectionSort\bin\Debug\SelectionSort.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\DelegateTask.Csharp.Sazonova\SelectionSort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\DelegateTask.Csharp.Sazonova\SelectionSort\obj\Debug\SelectionSort.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\DelegateTask.Csharp.Sazonova\SelectionSort\obj\Debug\SelectionSort.pdb

@@ -1,0 +1,4 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Triangle\bin\Debug\Triangle.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Triangle\bin\Debug\Triangle.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Triangle\obj\Debug\Triangle.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Task3\Triangle\obj\Debug\Triangle.pdb

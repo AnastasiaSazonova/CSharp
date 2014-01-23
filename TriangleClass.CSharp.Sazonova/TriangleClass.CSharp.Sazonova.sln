@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTest", "TriangleTest\TriangleTest.csproj", "{7A32F0F7-D870-4E39-83DD-2BEE2EB587A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleLib", "Triangle\TriangleLib.csproj", "{65B5B44A-7CF3-440A-9E41-BBA4A9E767E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{14FD313A-2B91-4A01-A5CC-BE6749E19CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A32F0F7-D870-4E39-83DD-2BEE2EB587A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A32F0F7-D870-4E39-83DD-2BEE2EB587A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A32F0F7-D870-4E39-83DD-2BEE2EB587A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A32F0F7-D870-4E39-83DD-2BEE2EB587A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B5B44A-7CF3-440A-9E41-BBA4A9E767E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B5B44A-7CF3-440A-9E41-BBA4A9E767E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B5B44A-7CF3-440A-9E41-BBA4A9E767E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B5B44A-7CF3-440A-9E41-BBA4A9E767E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FD313A-2B91-4A01-A5CC-BE6749E19CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FD313A-2B91-4A01-A5CC-BE6749E19CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FD313A-2B91-4A01-A5CC-BE6749E19CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FD313A-2B91-4A01-A5CC-BE6749E19CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
