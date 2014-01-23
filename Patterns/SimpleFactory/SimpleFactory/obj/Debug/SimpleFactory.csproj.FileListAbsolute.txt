@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb

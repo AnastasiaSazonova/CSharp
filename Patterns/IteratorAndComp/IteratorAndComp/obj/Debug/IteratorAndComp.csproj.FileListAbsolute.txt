@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\bin\Debug\IteratorAndComp.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\bin\Debug\IteratorAndComp.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\bin\Debug\IteratorAndComp.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\obj\Debug\IteratorAndComp.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\obj\Debug\IteratorAndComp.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\IteratorAndComp\IteratorAndComp\obj\Debug\IteratorAndComp.pdb

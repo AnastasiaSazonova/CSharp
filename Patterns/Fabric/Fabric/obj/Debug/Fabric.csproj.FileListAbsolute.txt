@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\bin\Debug\Fabric.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\bin\Debug\Fabric.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\bin\Debug\Fabric.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\obj\Debug\Fabric.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\obj\Debug\Fabric.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Fabric\Fabric\obj\Debug\Fabric.pdb

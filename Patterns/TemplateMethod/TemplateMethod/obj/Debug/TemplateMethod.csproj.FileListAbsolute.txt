@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
