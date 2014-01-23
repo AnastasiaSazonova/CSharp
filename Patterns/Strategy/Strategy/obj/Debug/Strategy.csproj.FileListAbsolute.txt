@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.pdb

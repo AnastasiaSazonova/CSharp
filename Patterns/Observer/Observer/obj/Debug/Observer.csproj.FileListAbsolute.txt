@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\bin\Debug\Observer.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\bin\Debug\Observer.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\bin\Debug\Observer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\obj\Debug\Observer.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Observer\Observer\obj\Debug\Observer.pdb

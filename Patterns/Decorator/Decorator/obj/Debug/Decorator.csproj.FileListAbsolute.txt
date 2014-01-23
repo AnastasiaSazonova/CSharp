@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\bin\Debug\Decorator.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\bin\Debug\Decorator.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\bin\Debug\Decorator.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\obj\Debug\Decorator.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\Decorator\Decorator\obj\Debug\Decorator.pdb
